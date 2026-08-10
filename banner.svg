@@ -1,0 +1,34 @@
+<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1200" height="300" rx="20" fill="#0d1117"/>
+
+  <text x="70" y="105"
+        fill="#ffffff"
+        font-family="Arial, sans-serif"
+        font-size="52"
+        font-weight="bold">
+    GUILHERME BARRETO
+  </text>
+
+  <text x="72" y="150"
+        fill="#58a6ff"
+        font-family="Arial, sans-serif"
+        font-size="24">
+    Python Developer | Backend | Automation
+  </text>
+
+  <text x="72" y="200"
+        fill="#c9d1d9"
+        font-family="Arial, sans-serif"
+        font-size="20">
+    Transformando problemas em soluções através de código.
+  </text>
+
+  <text x="72" y="250"
+        fill="#8b949e"
+        font-family="Arial, sans-serif"
+        font-size="17">
+    🐍 Python    ⚡ FastAPI    🗄 PostgreSQL    🐳 Docker
+  </text>
+
+</svg>
