@@ -1,9 +1,10 @@
+<div align="center">
 
+<img src="./banner.svg" width="100%">
 
-# GUILHERME BARRETO
-### Python Developer | Backend | Automation
+</div>
 
-> Code. Automate. Solve. Evolve.
+#
 
 
 ## 👨‍💻 Sobre mim
