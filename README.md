@@ -1,20 +1,13 @@
 <div align="center">
-<table>
-<tr>
-<td width="70%" valign="middle" style="border: none;">
 
-<img src="./banner.svg" width="100%">
+<img align="left" src="./banner.svg" width="75%">
 
-</td>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlpbW10b3I0emEwbGFhNjl2Y25seGwzcjhldmx6ZjFycHRxYWg4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KEYMsj2LcXzfcTP5ii/giphy.gif" width="20%">
 
-<td width="30%" align="center" valign="middle" style="border: none;">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlpbW10b3I0emEwbGFhNjl2Y25seGwzcjhldmx6ZjFycHRxYWg4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KEYMsj2LcXzfcTP5ii/giphy.gif" width="100%">
-</td>
-</tr>
-</table>
 </div>
 
-#
+<br clear="both">
+
 
 
 ## 👨‍💻 Sobre mim
