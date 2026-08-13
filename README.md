@@ -79,7 +79,7 @@ Atualmente, meu objetivo é continuar evoluindo como desenvolvedor backend, apri
 - Redes Neurais Convolucionais
 - Tkinter
 
-[🔗 Ver projeto](https://github.com/Salts01/MachineLearn/tree/main/ExpressionIdentification)
+[🔗 Ver projeto](https://github.com/Salts01/Expression-Identification)
 
 ---
 
